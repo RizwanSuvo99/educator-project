@@ -134,6 +134,7 @@ header {
     color: #7ECCC5;
     line-height: 120px;
     font-weight: 700;
+	text-shadow: rgb(86, 88, 91) 2px 3px;
 
 }
 
@@ -197,6 +198,7 @@ section.category-all-box {
     line-height: 59px;
     color: #fff;
     text-transform: uppercase;
+	text-shadow: rgb(86, 88, 91) 2px 3px;
 }
 
 .category-box p {
@@ -266,6 +268,7 @@ section.category-all-item.section-padding-bottom {
     word-spacing: 2.7px;
     color: #fff;
     padding-bottom: 15px;
+	text-shadow: rgb(86, 88, 91) 2px 3px;
     
 }
 
